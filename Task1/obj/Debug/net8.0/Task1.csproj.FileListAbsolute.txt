@@ -1,0 +1,14 @@
+D:\Ucheba\DZ\Task1\bin\Debug\net8.0\Task1.exe
+D:\Ucheba\DZ\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\Ucheba\DZ\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\Ucheba\DZ\Task1\bin\Debug\net8.0\Task1.dll
+D:\Ucheba\DZ\Task1\bin\Debug\net8.0\Task1.pdb
+D:\Ucheba\DZ\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ucheba\DZ\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\Ucheba\DZ\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\Ucheba\DZ\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\Ucheba\DZ\Task1\obj\Debug\net8.0\Task1.dll
+D:\Ucheba\DZ\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\Ucheba\DZ\Task1\obj\Debug\net8.0\Task1.pdb
+D:\Ucheba\DZ\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\Ucheba\DZ\Task1\obj\Debug\net8.0\ref\Task1.dll
