@@ -11,13 +11,13 @@ void PrintNaturalNumbers(int m, int n)
     }
     else if (m > n)
     {
-        Console.Write($"{m} ");
-        PrintNaturalNumbers(m - 1, n);
+        Console.Write($"{n} ");
+        PrintNaturalNumbers(m, n + 1);
     }
     else if (m < n)
     {
-        Console.Write($"{n} ");
-        PrintNaturalNumbers(m, n - 1);
+        Console.Write($"{m} ");
+        PrintNaturalNumbers(m + 1, n);
     }
 
 }
